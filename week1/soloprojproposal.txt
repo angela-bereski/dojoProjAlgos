@@ -1,0 +1,10 @@
+Solo Project Proposal
+
+Name: Angela Bereski
+Stack: Java
+GitHub Repo: https://github.com/angela-bereski/BeenThereRunThat.git
+Wireframe link: See Attached PDF
+Project Name: Been There, Run That
+Project Description: An app where runners can schedule and log training runs. Users hold runners accountable by requesting mile dedications and support them with cheers after they complete their runs. 
+MVP (Minimum Viable Product) Features: Runners can schedule their future runs and receive good luck wishes/mile dedication requests from followers. Runners also log their training runs, and receive cheers and kudos from their followers. Supporters can delete and edit their comments. Runners can edit and delete their scheduled runs and training logs. Must be signed in for these capabilities. 
+Bonus Features: Runners can upload a photo from their run. 
